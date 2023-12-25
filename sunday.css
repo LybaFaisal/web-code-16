@@ -1,0 +1,146 @@
+#header{
+    background-color: #434343;
+    color:#F7C873;
+    font-size: 24px;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 10px 0px 0px 0px;
+}
+.flexcontainer{
+    display: flex;
+    background-color:#9EC8B9;
+    justify-content: space-around;
+    background-color: #434343;
+}
+div.nav{
+    font-size: 33px;
+    color: #1B4242;
+    padding: 10px 0px 10px 0px;
+}
+a.first{
+    color:#FAEBCD;
+    text-decoration: none;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+a.first:hover{
+    background-color:#F39F5A;
+}
+#img2{
+    margin-left: 300px;
+    /* border-radius: 9px;
+    border: 4px inset #ECE3CE; */
+    margin-top: 20px;
+}
+#h3{
+    font-size: 60px;
+    color: #F7C873;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 80px 0px 0px 80px;
+}
+.ptag{
+    color: #434343;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 60px 0px 0px 0px;
+    font-size: 27px;
+}
+#second{
+    text-decoration: none;
+    color: #F7C873;
+}
+#second:hover{
+    color: #434343;
+}
+.third{
+    text-decoration: none;
+    color: #434343;
+}
+.third:hover{
+    color: #F7C873;
+}
+.M2{
+    background-color:#434343;
+}
+#secondmain{
+    justify-content: space-around;
+    padding: 40px 20px 60px 20px;
+}
+.caption{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 27px;
+    color: #F7C873;
+    text-align: center;
+}
+.border{
+    border-radius: 11px;
+    margin: 0px -10px 0px -10px;
+    border: 1px groove #F7C873;
+}
+#head2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: #F7C873;
+    text-align: center;
+    padding-top: 40px;
+}
+.flowers{
+    text-decoration: none;
+    color: #F7C873;
+}
+.flowers:hover{
+    color:cornsilk;
+}
+.ptag2{
+    color:#F39F5A;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 62px 0px 0px 0px;
+    font-size: 20px;
+}
+.fourth{
+    text-decoration: none;
+    color:#F39F5A;
+}
+.fourth:hover{
+    color:#434343;
+}
+#head3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color:#434343;
+    text-align: center;
+    padding-top: 40px;
+}
+#thirdmain{
+    justify-content: space-around;
+    padding: 40px 20px 60px 20px;
+}
+.travel{
+    text-decoration: none;
+    color: #F39F5A;
+}
+.travel:hover{
+    color: #607274;
+}
+.caption2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 28px;
+    color: #434343;
+    text-align: center;
+}
+.travel2{
+    color: #434343;
+    text-decoration: none;
+}
+.travel2:hover{
+    color:#F39F5A;
+}
+footer {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-size: 19px;
+}
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
